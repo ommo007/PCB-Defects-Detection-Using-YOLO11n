@@ -1,6 +1,6 @@
 # PCB Defects Detection Using YOLO11n
 
-I used YOLO11n for this project, the dataset used is [this](https://www.kaggle.com/datasets/akhatova/pcb-defects).
+For this research, I utilized YOLO11n, and this is the  [dataset](https://www.kaggle.com/datasets/akhatova/pcb-defects).
 
 
 Dataset consists of 6 labels:
